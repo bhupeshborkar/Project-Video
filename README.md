@@ -1,6 +1,6 @@
 # Online Doctor Appointment Booking System.
 
- This is a team project of a smart appointment booking system that provides patients or any user an easy way of booking a doctor’s appointment online.
+ This is a project of a smart appointment booking system that provides patients or any user an easy way of booking a doctor’s appointment online.
  The application uses HTML, CSS, Java, JavaScript as a front-end and PHP, SQL database as the back-end.
  The project contains an admin and user sides.
  This system is very effective in  tackling the modern day problems during this hard time of pandemic.
